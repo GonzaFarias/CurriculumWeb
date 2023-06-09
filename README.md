@@ -1,5 +1,5 @@
 # CurriculumWeb
-TP solicitado para PWEB1, se pide:
+TP solicitado para PWEB1, cabe aclarar que no todos los datos son reales, se pide:
 Agregar un nuevo campo al formulario denominado "Sueldo mínimo" (o similar), el cual representará el salario mínimo en pesos que la persona que completa el formulario ofrece al contactado. Este campo 
 
 Implementar validaciones de JavaScript en el formulario además de los que ya ofrece HTML, un ejemplo de validación seria un sueldo mínimo esperado por ustedes por ejemplo no aceptan sueldos mínimos menores a 10000 pesos porque les parece muy poco y no quieren ni perder tiempo leyendo los datos de contacto de alguien que ofrece poco.
